@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Predicting Data Science Salaries from the Indeed website.
-
-"You're going to need a bigger scrape" - with apologies to Jaws.
+title: You're going to need a bigger scrape - with apologies to Jaws.
 ---
 
 Predicting Data Science Salaries from the Indeed website.
