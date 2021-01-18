@@ -5,8 +5,6 @@ title: You're going to need a bigger scrape - with apologies to Jaws.
 
 Predicting Data Science Salaries from the Indeed website.
 
-"You're going to need a bigger scrape" - with apologies to Jaws.
-
 1) What was I trying to do?
 
 Predict if an annual salary was going to be higher or lower than median for a data science role for a sample set scraped from the Indeed website - based on location, title and summary description.
