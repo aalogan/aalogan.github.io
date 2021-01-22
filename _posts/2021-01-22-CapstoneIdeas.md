@@ -3,7 +3,7 @@ layout: post
 title: Capstone Ideas - Fire Engines or Fine Schools?
 ---
 
-In a few days time I'll need to pithc my ideas for my Capstone project to my classmates. It's been a headache trying to find potentially useful, interesting ideas that I have
+In a few days time I'll need to pitch my ideas for my Capstone project to my classmates. It's been a headache trying to find potentially useful, interesting ideas that I have
 some hope of finding the right data for.
 
 To cut a long story short, I've settled on 2 possible ideas - one generated from a conversation I had with an ex-copper a few years ago ('One of the best predictors for how
