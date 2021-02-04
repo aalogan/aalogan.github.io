@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How Many Fire Engines Tomorrow?' The Data
+title: How Many Fire Engines Tomorrow? The Data
 ---
 1) Data Sources:
 
