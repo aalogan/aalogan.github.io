@@ -2,6 +2,8 @@
 layout: post
 title: How Many Fire Engines Tomorrow? The Data
 ---
+Here's the process I went through to acquire and clean the data for my project.
+
 1) Data Sources:
 
 London Datastore - https://data.london.gov.uk/dataset/london-fire-brigade-incident-records
